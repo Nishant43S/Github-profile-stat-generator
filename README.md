@@ -5,7 +5,8 @@ This app is a simple tool designed to help you showcase your GitHub profile stat
 ![Screenshot 2024-10-19 111046](https://github.com/user-attachments/assets/714b7c8f-ff51-4bd4-910c-b729ecae3f89)
 
 <br>
-<br>
+
+##
 
 <h4>Features</h4>
     <ul>
